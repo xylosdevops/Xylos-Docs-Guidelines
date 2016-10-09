@@ -5,6 +5,7 @@ The general guidelines for repository usage on Github. These are subject to chan
 All repositories will follow the following naming convention
 * The prefix "Xylos-"
 * Technology Indicator
+  * Docs
   * Powershell
   * Docker
   * DSC
