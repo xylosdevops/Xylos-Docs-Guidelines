@@ -7,8 +7,9 @@ All repositories will follow the following naming convention
   * Xylos for almost everything
   * TasmanianDevils for our demo material
   * ... tbd ...
-* Technology Indicator and a dash [optional]
+* Type/Technology Indicator and a dash [optional]
   * Docs
+  * IaC
   * Powershell
   * Docker
   * DSC
