@@ -3,12 +3,11 @@ The general guidelines for repository usage on Github. These are subject to chan
 
 ## Repository Naming Convention
 All repositories will follow the following naming convention
-* The company prefix 
+* The company prefix and a dash [mandatory]
   * Xylos for almost everything
   * TasmanianDevils for our demo material
   * ... tbd ...
-* A dash
-* Technology Indicator
+* Technology Indicator and a dash [optional]
   * Docs
   * Powershell
   * Docker
@@ -16,7 +15,7 @@ All repositories will follow the following naming convention
   * ARM
   * ...
 * A dash
-* Projectname
+* Projectname [mandatory]
   * In case a more granular division is needed, then identifiers are split with a dash
 
 *Example(s)*
