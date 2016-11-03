@@ -14,7 +14,6 @@ All repositories will follow the following naming convention
   * DSC
   * ARM
   * ...
-* A dash
 * Projectname [mandatory]
   * In case a more granular division is needed, then identifiers are split with a dash
 
