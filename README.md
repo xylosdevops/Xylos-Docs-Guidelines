@@ -5,7 +5,7 @@ The general guidelines for repository usage on Github. These are subject to chan
 All repositories will follow the following naming convention
 * The company prefix and a dash [mandatory]
   * Xylos for almost everything
-  * TasmanianDevils for our demo material
+  * TasmanianTraders for our demo material
   * ... tbd ...
 * Type/Technology Indicator and a dash [optional]
   * Docs
