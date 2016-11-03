@@ -3,7 +3,11 @@ The general guidelines for repository usage on Github. These are subject to chan
 
 ## Repository Naming Convention
 All repositories will follow the following naming convention
-* The prefix "Xylos-"
+* The company prefix 
+  * Xylos for almost everything
+  * TasmanianDevils for our demo material
+  * ... tbd ...
+* A dash
 * Technology Indicator
   * Docs
   * Powershell
